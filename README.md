@@ -5,7 +5,7 @@ $pkg install git -y
 
 $git clone https://github.com/WHITE-TERMUX/RooTT
 
-$cd T-root 
+$cd RooTT 
 
 $chmod +x * 
 
@@ -13,4 +13,4 @@ $bash install.sh
 
 $./start  
 
-Una vez instalado la herramienta para activarlo simplemente escribimos root
+Una vez instalado la herramienta para activarlo simplemente escribimos root.
